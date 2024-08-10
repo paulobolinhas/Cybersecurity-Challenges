@@ -1,5 +1,5 @@
 # CyberChallenges
 
-- Folder = challenge types
+- Folder = challenge's type
 - **Format:** poc + md
 
