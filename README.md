@@ -1,6 +1,5 @@
 # CyberChallenges
 
-## Folder = challenge types
-
-### **Format:** poc + md
+- Folder = challenge types
+- **Format:** poc + md
 
